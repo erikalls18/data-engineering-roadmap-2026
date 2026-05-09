@@ -179,6 +179,5 @@ yellow_tripdata_2024-01.**parquet
 taxi_zone_lookup.csv
 
 # End of https://www.toptal.com/developers/gitignore/api/python
-
-nivel-0/nyc-tlc-data
-nivel-0/yellow_tripdata_2024-01.csv
+nyc-tlc-data
+yellow_tripdata_2024-01.csv
